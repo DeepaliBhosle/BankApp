@@ -1,4 +1,4 @@
-## End-to-End Bank Application Deployment using DevSecOps on AWS EKS
+## End-to-End Bank Application Deployment using DevSecOps on Azure AKS
 - This is a multi-tier bank an application written in Java (Springboot).
 ![BankApp Welcome page](https://github.com/user-attachments/assets/07f227ad-c368-4dd3-a03a-804bab1bcee7)
 
@@ -8,8 +8,8 @@
 
 
 ### PRE-REQUISITES FOR THIS PROJECT:
-- AWS Account
-- AWS Ubuntu EC2 instance (t2.medium)
+- Microsoft Azure Account
+- Azure Ubuntu Virtual Machine (Standard B2ms)
 - Install Docker
 - Install docker compose
 #
@@ -18,6 +18,6 @@
 | -------- | ------- |
 | Deployment using Docker and Networking | <a href="#Docker">Click me </a>     |
 | Deployment using Docker Compose | <a href="#dockercompose">Click me </a>     |
-| Deployment using Jenkins on EKS | <a href="#">Click me </a>     |
-| Deployment using Argocd on EKS| <a href="#">Click me </a>     |
+| Deployment using Jenkins on AKS | <a href="#">Click me </a>     |
+| Deployment using Argocd on AKS| <a href="#">Click me </a>     |
 
